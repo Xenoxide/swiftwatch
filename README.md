@@ -14,7 +14,8 @@ Instantly watch a movie or show by simply searching for it with swiftwatch. swif
 - imdbpy if using .py version, not required for exe. Install using `pip install imdbpy`
 
 # Installation
-1) Download .exe or .py 
+1) Download .exe or .py (.exe recomended for most users, both versions are literally exactly the same except for file types.)
 2) Run and follow prompts
-Incase you got a virus warning please set an exception or use .py version.
+
+*If you get a virus warning please set an exception or use .py version. 
 
