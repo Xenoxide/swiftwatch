@@ -9,9 +9,12 @@ Instantly watch a movie or show by simply searching for it with swiftwatch. swif
     - 0.5x to 4x speed
     - High-Quality videos
   
+# Requirements
+- Chrome/Firefox/Brave **With high-quality adblocker such as ublock origin**
+- imdbpy if using .py version, not required for exe. Install using `pip install imdbpy`
+
 # Installation
-1) Download .exe or .py
+1) Download .exe or .py 
 2) Run and follow prompts
-Incase you got a z
-**Make sure your chosen browser has a good adblocker like ublock origin. vidsrc has links to potentially unsafe/annoying external webisites.**
+Incase you got a virus warning please set an exception or use .py version.
 
