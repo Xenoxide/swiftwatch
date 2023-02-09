@@ -19,3 +19,8 @@ Instantly watch a movie or show by simply searching for it with swiftwatch. swif
 
 *If you get a virus warning please set an exception or use .py version. 
 
+# Stuff:
+- **discord/okiedokie#1063**  
+- **github/okiedokiegithub**  
+- **btc/38gzyMmvK83ceuhYCJex5Up5UE4cXdMbGz**  
+
